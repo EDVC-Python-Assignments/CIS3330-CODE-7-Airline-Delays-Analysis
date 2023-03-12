@@ -14,7 +14,9 @@ In this CODE assignment, you are going to put into practice descriptive and pred
  * In a report include the statistic and visualizations that explain what significant predictors in your analysis are and how these predictors can be used to create inferences about future observations.
  * Your report should also include 1-2 paragraphs explaining the findings from your predictive analytical model.
 
-There is no automated testing enabled in this assignment. For your deliverable submit the following two things:
+### Deliverables 
+
+There is no automated testing enabled in this assignment, but any code used for this assignment needs to be in `code_7.py`. For your deliverable submit the following two things:
 
 * Code repository with Python code and report in document format (e.g., PDF, Word, etc)
 * Descriptive and predicitive analytics report submitted also in Blackboard.
