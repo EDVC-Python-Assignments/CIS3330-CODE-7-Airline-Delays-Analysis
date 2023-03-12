@@ -37,4 +37,4 @@ There is no automated testing enabled in this assignment. For your deliverable s
 
 ## Data Source and License
 
-The data was extracted from the Kaggle Dataset (https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018). The authors of the Kaggle Dataset disclosed that the data was obtained from the Department of Transportation. The extract from the dataset corresponding on this assignment will only be used for educational purposes.
+The data was extracted from the Kaggle Dataset (https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018). The authors of the Kaggle Dataset disclosed that the data was obtained from the Department of Transportation. The extract from the dataset  on this assignment will can only be used for educational purposes and was obtained by Dr. Villacis Calderon. 
